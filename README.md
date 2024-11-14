@@ -137,7 +137,6 @@ The framework combines quantum computing principles with materials science to:
 
 - Create an issue for bug reports
 - Submit pull requests for contributions
-- Email: your.email@example.com
 
 ---
 
